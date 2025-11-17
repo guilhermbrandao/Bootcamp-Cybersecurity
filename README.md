@@ -2,7 +2,8 @@
 
 ## Simulando um Ataque de Brute Force de senhas com Medusa e Kali Linux 
 
-#### Objetivo compreender como funciona ataques de força bruta em serviços de FTP, Web, SMB utilizando o kali linux e medusa, documentando todo o processo.
+#### Objetivo compreender como funciona ataques de força bruta em serviços de FTP, Web, SMB utilizando o kali linux e medusa, documentando todo o processo. 
+#### O projeto é educacional e o que foi feito para mitigar riscos.
 
 ## Ferramentas utilizadas 
 - **Oracle VirtualBox** (Software de virtualização das maquina atacante e maquina alvo) 
